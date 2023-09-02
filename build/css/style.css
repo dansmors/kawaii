@@ -547,6 +547,14 @@ video {
   height: 13rem;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
+.w-16 {
+  width: 4rem;
+}
+
 .flex-row {
   flex-direction: row;
 }
